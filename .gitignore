@@ -22,3 +22,19 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 .DS_Store
+도강/비주얼/visual_20193148/.vs/visual_20193148/v16/.suo
+도강/비주얼/visual_20193148/.vs/visual_20193148/v16/Browse.VC.db
+도강/비주얼/visual_20193148/.vs/visual_20193148/v16/Browse.VC.opendb
+도강/비주얼/visual_20193148/.vs/visual_20193148/v16/ipch/AutoPCH/86f22c4a2eb09795/소스.ipch
+도강/비주얼/visual_20193148/x64/Debug/vc142.idb
+도강/비주얼/visual_20193148/x64/Debug/vc142.pdb
+*.pdb
+*.ilk
+*.tlog
+도강/비주얼/visual_20193148/x64/Debug/visual_20193148.vcxproj.FileListAbsolute.txt
+도강/비주얼/visual_20193148/visual_20193148.vcxproj.user
+도강/비주얼/visual_20193148/x64/Debug/visual_20193148.exe
+도강/비주얼/visual_20193148/visual_20193148.vcxproj.filters
+도강/비주얼/visual_20193148/visual_20193148.vcxproj
+도강/비주얼/visual_20193148/visual_20193148.sln
+도강/비주얼/visual_20193148/x64/Debug/소스.obj

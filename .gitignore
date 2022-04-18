@@ -41,3 +41,43 @@ hs_err_pid*
 토익/ideaIC-2021.3.3.dmg
 1.대내외활동/전공튜터링/2022-1학기 전공튜터링 신청서.hwp
 캡스톤디자인/4-1_Capstone_Document/
+
+# Created by https://www.toptal.com/developers/gitignore/api/java
+# Edit at https://www.toptal.com/developers/gitignore?templates=java
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# End of https://www.toptal.com/developers/gitignore/api/java
+자바프로그래밍/build.gradle
+자바프로그래밍/gradlew
+자바프로그래밍/gradlew.bat
+자바프로그래밍/settings.gradle
+자바프로그래밍/untitled/.idea/compiler.xml
+자바프로그래밍/untitled/.idea/misc.xml
+자바프로그래밍/untitled/.idea/modules.xml
+자바프로그래밍/untitled/.idea/vcs.xml
+자바프로그래밍/untitled/untitled.iml

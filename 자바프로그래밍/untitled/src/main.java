@@ -29,6 +29,7 @@ public class main {
         System.out.println("==getInstance() 후 셋팅 변화 ==");
         Book[] book = new Book[100];
         book[0] = new Book();
+
         while(true) {
             Scanner sc = new Scanner(System.in);
             System.out.println("==== 목차 ====");
